@@ -26,7 +26,7 @@ Some values could be precomputed, but that's for later.
 
 ## Project Schnitzel
 
-A geolocation-based game using [OpenStreetMap data](https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez.html) and [Mapbox's MVT format](https://github.com/mapbox/vector-tile-spec/tree/master/2.1)
+A geolocation-based game using among other things [OpenStreetMap data](https://download.geofabrik.de/europe/germany/nordrhein-westfalen/duesseldorf-regbez.html), [Mapbox's MVT format](https://github.com/mapbox/vector-tile-spec/tree/master/2.1), [Google's Protocol Buffers](https://protobuf.dev) and [PostGIS](https://postgis.net/)
 
 ### Example rendering of [Grugapark Essen](https://www.openstreetmap.org/#map=16/51.4278/6.9873)
 
