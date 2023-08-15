@@ -42,4 +42,6 @@ Small dots are amenities. Pink stuff has no style yet.
 
 Online multiplayer dexterity board game in space. Gather resources, upgrade your faction and use your surroundings to your advantage, gravity included. Physics calculations run on both, the client and the server. On the server for a single source of truth and on the client to make the game more responsive.
 
-https://raw.githubusercontent.com/asciibeats/samples/main/project_flick_gameplay.mov
+https://raw.githubusercontent.com/asciibeats/samples/main/browser_flick_gameplay.mp4
+
+<img src="browser_flick_log.png" width="400"/>
