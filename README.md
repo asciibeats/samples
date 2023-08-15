@@ -40,8 +40,10 @@ Small dots are amenities. Pink stuff has no style yet.
 
 ## Project Flick
 
-Online multiplayer dexterity board game in space. Gather resources, upgrade your faction and use your surroundings to your advantage, gravity included. Physics calculations run on both, the client and the server. On the server for a single source of truth and on the client to make the game more responsive.
+An online multiplayer board game in space. Gather resources, upgrade your faction and use your surroundings to your advantage, gravity included. Physics calculations run twice in parallel. On the server with my own [LuaPort](https://github.com/asciibeats/luaport) for a single source of truth and in the browser to make the game more responsive.
 
 https://github.com/asciibeats/samples/assets/2955162/1c48b68c-d678-4cff-af03-fdb2cd60f708
+
+The server log looks like this:
 
 <img src="browser_flick_log.png" width="400"/>
