@@ -40,7 +40,7 @@ Small dots are amenities. Pink stuff has no style yet.
 
 ## Project Flick
 
-An online multiplayer board game in space. Gather resources, upgrade your faction and use your surroundings to your advantage, gravity included. Physics calculations run twice in parallel. On the server with my own [LuaPort](https://github.com/asciibeats/luaport) for a single source of truth and in the browser to make the game more responsive.
+An online multiplayer board game in space. Gather resources, upgrade your faction and use your surroundings to your advantage, gravity included. Physics calculations run twice and in parallel. On the server with my own [LuaPort](https://github.com/asciibeats/luaport) for a single source of truth and in the browser to make the game more responsive.
 
 https://github.com/asciibeats/samples/assets/2955162/1c48b68c-d678-4cff-af03-fdb2cd60f708
 
